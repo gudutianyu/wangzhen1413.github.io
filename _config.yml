@@ -1,20 +1,20 @@
 # Site settings
-title: Kailun Blog
-SEOTitle: Kailun Blog
+title: WangZhen Blog
+SEOTitle: WangZhen Blog
 header-img: img/home-bg.jpg
-email: kailuncen@163.com
-description: "Awesome"
-keyword: ""
-#url: "http://huangxuan.me"              # your host, for absolute URL
-# for example, '/blog' if your blog hosted on 'host/blog'
+email: youwangzhen@163.com
+keyword: "王振, wanzghen Blog, 王振的博客, 传播, 博客, 个人网站, 互联网, 后台开发, 旅行，摄影"
+url: "http://zhenwang.me"              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     3992267365
-zhihu_username:     lun-jia-er-bao-ai-shui-jue
+weibo_username:     ANT1299
 github_username:    kailuncen
+linkedin_username: wangzhen1413
 #twitter_username:  huxpro
 #facebook_username:  huxpro
 
@@ -72,7 +72,7 @@ ga_domain: kailuncen.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "美团点评后端工程师，技术爱好者。"
-sidebar-avatar: /img/avatar-kailuncen.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-wangzhen.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -85,7 +85,30 @@ featured-condition-size: 0             # A tag will be featured if the size of i
 # Friends
 friends: [
     {
-        title: "Hux Blog",
+        title: "小土刀",
+        href: "http://wdxtub.com/"
+    },{
+        title: "暗时间",
+        href: "http://mindhacks.cn"
+    },{
+        title: "黄玄的博客",
         href: "http://huangxuan.me"
+    },{
+        title: "一肩月光",
+        href: "http://zwb.io/"
+    },{
+        title: "初尘的博客",
+        href: "https://perhapslove.github.io/"
+    },{
+        title: "Bruce Zhao's Blog",
+        href: "http://brucezhaor.github.io/"
+    },{
+        title: "kailun blog",
+        href: "http://kailuncen.me/"
+    } ,{
+        title: "王振的lofter",
+        href: "http://wangzhenlofter.lofter.com/"
     }
 ]
+
+
