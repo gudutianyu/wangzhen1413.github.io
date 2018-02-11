@@ -209,7 +209,3 @@ ParameterMappingTokenHandler的handlerToken方法中，完成了添加参数映�
 ### 总结
 
 本文主要剖析了Mybatis中$和#两种符号使用上的不同，以及使用这两种符号时，源码流程上的区别。建议大家都使用#号，在orm这层也规避到Sql注入的风险。
-
-![输入图片说明](https://static.oschina.net/uploads/img/201707/09103417_O58Q.jpg "在这里输入图片标题")
-
-**倘若您有疑问或者有进一步想了解内容，欢迎留言给我。**
